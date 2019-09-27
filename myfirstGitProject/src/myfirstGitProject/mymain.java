@@ -4,6 +4,6 @@ public class mymain {
 
 	public static void main(String[] args) {
 		//12121
-		System.out.println();
+		System.out.println(787845);
 	}
 }
