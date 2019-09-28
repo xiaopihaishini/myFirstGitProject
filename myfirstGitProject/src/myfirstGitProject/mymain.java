@@ -2,6 +2,6 @@ package myfirstGitProject;
 
 public class mymain {
 	public static void main(String[] args) {
-		System.out.println(7833123);
+		System.out.println(7);
 	}
 }
